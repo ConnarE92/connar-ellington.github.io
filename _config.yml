@@ -1,0 +1,19 @@
+title: "Connar Cybersecurity Portfolio"
+description: "SOC Engineering • Detection • Threat Intel"
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "dark"
+
+markdown: kramdown
+
+sidebar:
+  nav: "nav"
+
+nav:
+  - title: "Home"
+    url: /
