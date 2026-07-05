@@ -2,7 +2,7 @@
 layout: single
 title: "SOC Engineering"
 sidebar:
-  nav: "nav"
+  nav: "main"
 ---
 ## Overview
 
@@ -12,26 +12,25 @@ Below are my featured SOC Engineering projects, along with direct links to the r
 
 ## Featured SOC Engineering Projects
 
-- **Detection-as-Code**  
+- **[Detection-as-Code](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/Detection-as-Code)**
   Building detections programmatically using structured formats and automated pipelines.  
-  [View Detection-as-Code](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/Detection-as-Code){: .btn }
+  
 
-- **Home SIEM Writeup**  
+- **[Home SIEM Writeup](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/Home-SIEM-Writeup)**
   A full write-up of deploying and configuring a home SIEM environment for monitoring and analysis.  
-  [View Home SIEM Writeup](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/Home-SIEM-Writeup){: .btn }
+  
 
-- **Honeypot Projects**  
+- **[Honeypot Projects](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/Honeypot-Projects)**
   Deploying honeypots, capturing attacker behaviour, and analysing malicious activity.  
-  [View Honeypot Projects](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/Honeypot-Projects){: .btn }
+ 
 
-- **SOAR Playbooks**  
+- **[View SOAR Playbooks](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/SOAR-Playbooks)**
   Automated incident response workflows using SOAR playbooks to streamline security operations.  
-  [View SOAR Playbooks](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/SOAR-Playbooks){: .btn }
+  
 
-- **Wazuh SOC Build**  
+- **[Wazuh SOC Build](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/Wazuh-SOC-Build)**
   Full SOC build using Wazuh, including deployment, configuration, dashboards, and alerting.  
-  [View Wazuh SOC Build](https://github.com/ConnarE92/-SOC-Engineering-and-Detection/tree/main/Wazuh-SOC-Build){: .btn }
 
 ## Full Repository
 
-[View Entire SOC Engineering Repository](https://github.com/ConnarE92/-SOC-Engineering-and-Detection){: .btn .btn--primary }
+[View Entire SOC Engineering Repository](https://github.com/ConnarE92/-SOC-Engineering-and-Detection)
