@@ -3,7 +3,7 @@ layout: single
 title: "Connar Ellington"
 author_profile: true
 sidebar:
-  nav: "nav"
+  nav: "main"
   show: true
 toc: true
 classes: wide
