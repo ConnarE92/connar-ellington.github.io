@@ -29,17 +29,6 @@ I’m building a complete cybersecurity portfolio covering:
 - Red team labs
 - Personal projects
 
-# Socials
-label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/connar-ellington/"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/ConnarE92"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:connarellingtgon@gmail.com"
-
 ## CV
 You can download my CV here:
 
