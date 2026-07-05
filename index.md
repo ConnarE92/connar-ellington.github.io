@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "main"
   show: true
-toc: true
+toc: false
 classes: wide
 ---
 Welcome to my cybersecurity portfolio.
