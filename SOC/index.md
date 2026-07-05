@@ -4,6 +4,7 @@ title: "SOC Engineering"
 sidebar:
   nav: "main"
 ---
+
 ## Overview
 
 This section covers my work in SOC engineering, including detection-as-code, SIEM configuration, honeypot deployment, SOAR automation, and full SOC build documentation.
