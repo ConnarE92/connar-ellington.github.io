@@ -4,7 +4,7 @@ title: "About Me"
 author_profile: true
 sidebar:
   nav: "main"
-toc: true
+toc: false
 classes: wide
 ---
 
