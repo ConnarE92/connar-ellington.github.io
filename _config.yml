@@ -17,3 +17,18 @@ sidebar:
 nav:
   - title: "Home"
     url: /
+
+    sidebar:
+  nav: "nav"
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "SOC Engineering"
+    url: /soc/
+  - title: "Offensive Security"
+    url: /offensive/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
