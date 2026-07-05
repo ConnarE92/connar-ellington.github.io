@@ -4,7 +4,7 @@ title: "Connar Ellington"
 author_profile: true
 sidebar:
   nav: "nav"
-classes: wide
 toc: true
+classes: wide
 ---
 Welcome to my cybersecurity portfolio.
