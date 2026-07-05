@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About Me"
+    url: /about/
+  - title: "SOC Engineering"
+    url: /SOC/
+  - title: "Offensive Security"
+    url: /offensive/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
