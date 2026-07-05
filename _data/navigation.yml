@@ -5,9 +5,9 @@ main:
     url: /about/
   - title: "SOC Engineering"
     url: /SOC/
+  - title: "Threat Intelligence"
+    url: /threat/
   - title: "Offensive Security"
     url: /offensive/
   - title: "Projects"
     url: /projects/
-  - title: "Contact"
-    url: /contact/
