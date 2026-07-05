@@ -3,11 +3,11 @@ main:
     url: /
   - title: "About Me"
     url: /about/
-  - title: "SOC Engineering"
+  - title: "SOC Engineering Projects"
     url: /SOC/
-  - title: "Threat Intelligence"
+  - title: "Threat Intelligence Projects"
     url: /threat/
-  - title: "Offensive Security"
+  - title: "Offensive Security Projects"
     url: /offensive/
-  - title: "Identity & Cloud"
+  - title: "Identity & Cloud Projects"
     url: /identity/
