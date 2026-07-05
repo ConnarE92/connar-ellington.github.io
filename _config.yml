@@ -20,4 +20,16 @@ nav:
   - title: "SOC Engineering"
     url: /SOC/
 
-#Rebuild
+author:
+  name: "Connar Ellington"
+  bio: "Cybersecurity learner specialising in SOC engineering and offensive security."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/connar-ellington/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ConnarE92"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:connarellingtgon@gmail.com"
