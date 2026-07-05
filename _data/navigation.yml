@@ -9,5 +9,5 @@ main:
     url: /threat/
   - title: "Offensive Security"
     url: /offensive/
-  - title: "Projects"
-    url: /projects/
+  - title: "Identity & Cloud"
+    url: /identity/
