@@ -32,4 +32,4 @@ I’m building a complete cybersecurity portfolio covering:
 ## CV
 You can download my CV here:
 
-[Download CV](../cv/Connar_Ellington_CV.pdf)
+[Download CV](../cv/CV.pdf)
