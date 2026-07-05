@@ -19,9 +19,4 @@ nav:
     url: /
   - title: "SOC Engineering"
     url: /SOC/
-  - title: "Offensive Security"
-    url: /offensive/
-  - title: "Projects"
-    url: /projects/
-  - title: "Contact"
-    url: /contact/
+
